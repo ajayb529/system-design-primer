@@ -11,7 +11,7 @@
 
 ## Motivation
 
-> Learn how to design large-scale systems.
+> Learn how to design large-scale systems and maintain it.
 >
 > Prep for the system design interview.
 
